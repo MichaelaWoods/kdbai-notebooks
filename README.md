@@ -7,9 +7,9 @@ The example [KDB.AI](https://kdb.ai) notebooks provided aim to demonstrate examp
 
 ## What is KDB.AI?
 
-KDB.AI is a powerful time-based vector database that allows developers to build scalable, reliable and real-time applications by providing advanced search, recommendation and personalization for Generative AI applications. KDB.AI is a key component of full-stack Generative AI applications that use Retrieval Augmented Generation (RAG).
+KDB.AI is a time-based vector database that allows developers to build scalable, reliable and real-time applications by providing advanced search, recommendation and personalization for Generative AI applications. KDB.AI is a key component of full-stack Generative AI applications that use Retrieval Augmented Generation (RAG).
 
-Built by the KX the creators of kdb+, KDB.AI provides users with the ability to combine unstructured vector embedding data with structured time-series datasets to allow for hybrid use-cases which benefit from the rigor of conventional time-series data analytics and the usage patterns provided by vector databases within the Generative AI space.
+Built by KX the creators of kdb+, KDB.AI provides users with the ability to combine unstructured vector embedding data with structured time-series datasets to allow for hybrid use-cases which benefit from the rigor of conventional time-series data analytics and the usage patterns provided by vector databases within the Generative AI space.
 
 ## What does it support?
 
@@ -44,9 +44,3 @@ The following notebooks and sections are included within this repository at this
 
 - [ChatGPT Retrieval Plugin](notebooks/integrations/ChatGPT_Retrieval_Plugin_QA.ipynb): Example showing a question and answer session using a ChatGPT retrieval plugin using KDB.AI Vector Database.
 - [Langchain](notebooks/integrations/LangChain_QABot.ipynb): Example showing a question and answer session using a Langchain integration with the KDB.AI Vector Database.
-
-## What's coming later?
-
-- Database fault tolerance
-- Tiered Storage
-- Partitioned tables
