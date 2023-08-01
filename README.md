@@ -1,4 +1,4 @@
-# <img src="images/kdbai.png" height="60" width="159" > kdbai-notebooks
+# <img src="images/kdbai.png" height="60" width="159" > Notebooks
 
 The example [KDB.AI](https://kdb.ai) notebooks provided aim to demonstrate examples of the use of the KDB.AI vector database in a number of scenarios ranging from getting started guides to industry specific use-cases.
 
