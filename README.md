@@ -35,10 +35,12 @@ The following notebooks and sections are included within this repository at this
 
 ### Use-Cases
 
-- [Flight Climb Analysis](notebooks/use-cases/Flight_Climb_Analysis.ipynb): Analysis comparing temporal aircraft sensor data to identify optimizations and make informed decisions to enhance aircraft performance.
-- [Crypto Semantic Search](notebooks/use-cases/Crypto_Semantic_Search.ipynb): Using KDB.AI to ask questions and get information across both financial data and unstructured Twitter data.
-- [Crypto Sentiment Analysis](notebooks/use-cases/Crypto_Sentiment_Analysis.ipynb): Using KDB.AI to analysis the correlation between the sentiment of tweets and price movements of bitcoin.
-- [Crypto Strategy](notebooks/use-cases/Crypto_Strategy.ipynb): Using KDB.AI to generate a momentum trading strategy.
+- [Document Search](notebooks/samples/document_search.ipynb)
+- [Image Search](notebooks/samples/image_search.ipynb)
+- [Recommendation System](notebooks/samples/music_recommendation.ipynb)
+- [Pattern Matching](notebooks/samples/pattern_matching.ipynb)
+- [Retreival Augmented Generation](notebooks/samples/langchain_rag.ipynb)
+- [Sentiment Analysis](notebooks/samples/sentiment_analysis.ipynb)
 
 ### Integrations
 
