@@ -1,4 +1,4 @@
-# <img src="images/kdbai.png" height="60" width="159" > Notebooks
+![KDB.AI Logo](https://kdb.ai/images/logo-kdb.ai-black-bg.png)
 
 The example [KDB.AI](https://kdb.ai) notebooks provided aim to demonstrate examples of the use of the KDB.AI vector database in a number of scenarios ranging from getting started guides to industry specific use-cases.
 
@@ -35,14 +35,14 @@ The following notebooks and sections are included within this repository at this
 
 ### Use-Cases
 
-- [Document Search](notebooks/samples/document_search.ipynb)
-- [Image Search](notebooks/samples/image_search.ipynb)
-- [Recommendation System](notebooks/samples/music_recommendation.ipynb)
-- [Pattern Matching](notebooks/samples/pattern_matching.ipynb)
-- [Retreival Augmented Generation](notebooks/samples/langchain_rag.ipynb)
-- [Sentiment Analysis](notebooks/samples/sentiment_analysis.ipynb)
+- [Document Search](https://github.com/KxSystems/kdbai-notebooks/tree/main/notebooks/samples/document-search)
+- [Image Search](https://github.com/KxSystems/kdbai-notebooks/tree/main/notebooks/samples/image-search)
+- [Recommendation System](https://github.com/KxSystems/kdbai-notebooks/tree/main/notebooks/samples/music_recommendation)
+- [Pattern Matching](https://github.com/KxSystems/kdbai-notebooks/tree/main/notebooks/samples/pattern-matching)
+- [Retreival Augmented Generation with LangChain](https://github.com/KxSystems/kdbai-notebooks/tree/main/notebooks/samples/langchain)
+- [Sentiment Analysis](https://github.com/KxSystems/kdbai-notebooks/tree/main/notebooks/samples/sentiment-analysis)
 
 ### Integrations
 
-- [ChatGPT Retrieval Plugin](notebooks/integrations/ChatGPT_Retrieval_Plugin_QA.ipynb): Example showing a question and answer session using a ChatGPT retrieval plugin using KDB.AI Vector Database.
-- [Langchain](notebooks/integrations/LangChain_QABot.ipynb): Example showing a question and answer session using a Langchain integration with the KDB.AI Vector Database.
+- [ChatGPT Retrieval Plugin](https://github.com/KxSystems/chatgpt-retrieval-plugin/blob/KDB.AI/examples/providers/kdbai/ChatGPT_QA_Demo.ipynb): Example showing a question and answer session using a ChatGPT retrieval plugin using KDB.AI Vector Database.
+- [Langchain](https://github.com/KxSystems/langchain/blob/KDB.AI/docs/extras/integrations/vectorstores/kdbai.ipynb): Example showing a question and answer session using a Langchain integration with the KDB.AI Vector Database.
